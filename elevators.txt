@@ -1,0 +1,66 @@
+Ancient Origins: The concept of elevators isn’t as modern as you might think. Ancient civilizations, like the Romans, used basic lifting devices powered by humans, animals, or water wheels. The famous Roman architect Vitruvius reported that Archimedes built his first elevator in 236 B.C.!
+The Birth of the Safety Elevator: Elisha Otis is a name synonymous with elevators. In 1852, he didn’t invent the elevator but revolutionized its safety. He introduced a safety mechanism that would prevent an elevator from falling if its cable snapped, making high-rise buildings and the modern city skyline possible.
+Elevator Music Origins: The concept of elevator music, or Muzak, was introduced not just for entertainment. It was believed that soft background music would soothe the riders’ fears, especially when elevators were a newer invention and people were wary of using them.
+Some of the most famous elevators can be found in Gateway Arch in St. Louis (cabin travels in a arch), Santa Justa Lift in Lisbon (one of the first steam powered lifts), Lacerda Elevator in Salvador (one of the busiest elevators in the world), Taipei 101 (rocked powered elevators!), Bailong Elevator in china (regarded to be biggest outdoor elevator), Louvre Elevator in France (its cabin is open) and Luxor Hotel in Las Vegas (it travels at the 39% degree).
+Ancient Origins: The concept of elevators isn’t as modern as you might think. Ancient civilizations, like the Romans, used basic lifting devices powered by humans, animals, or water wheels. The famous Roman architect Vitruvius reported that Archimedes built his first elevator in 236 B.C.!
+Speedy Elevators: The fastest elevators in the world, located in the Guangzhou CTF Finance Centre in China, can travel at speeds of up to 44.7 mph. That’s faster than some cars on city roads!
+The Birth of the Safety Elevator: Elisha Otis is a name synonymous with elevators. In 1852, he didn’t invent the elevator but revolutionized its safety. He introduced a safety mechanism that would prevent an elevator from falling if its cable snapped, making high-rise buildings and the modern city skyline possible.
+Elevator Music Origins: The concept of elevator music, or Muzak, was introduced not just for entertainment. It was believed that soft background music would soothe the riders’ fears, especially when elevators were a newer invention and people were wary of using them.
+A Symbol of Luxury: In the early days of elevator installations, they were considered a symbol of luxury and prestige. Many upscale European hotels in the 19th century advertised their elevators as major attractions.
+Underwater Elevators: The Aquadom in Berlin, Germany, boasts the world’s largest freestanding cylindrical aquarium with an elevator inside! As you ascend or descend, you’re surrounded by a vibrant marine world.
+Going Sideways: Not all elevators just go up and down. The development of magnetic levitation technology has made it possible for elevators, like the MULTI by Thyssenkrupp, to move sideways too!
+Most Traveled Elevator: The elevators in New York City’s Empire State Building are among the most traveled in the world. They cover a combined distance of over 180,000 miles annually. That’s like traveling around the Earth’s equator seven times!
+Space Elevators: While still in the realm of science fiction, the idea of space elevators isn’t entirely off the table. Researchers and scientists have contemplated creating an elevator that could transport cargo and perhaps humans from Earth to space stations or other celestial bodies.
+In the world of elevators, there’s always more than meets the eye. From their ancient origins to futuristic possibilities, elevators have been and continue to be an integral and fascinating part of our architectural and cultural landscape. So, the next time you step into an elevator, remember these fun tidbits and perhaps share one or two with a fellow rider!
+In the 1800s, new iron and steel production processes revolutionized the world of construction. With sturdy metal beams as their building blocks, architects and engineers could erect monumental skyscrapers hundreds of feet in the air.
+But these towers would have been basically unusable if it weren't for another technological innovation that came along around the same time. Modern elevators are the crucial element that makes it practical to live and work dozens of stories above ground. High-rise cities like New York absolutely depend on elevators. Even in smaller multi-story buildings, elevators are essential for making offices and apartments accessible to handicapped people.
+By definition, an elevator is a platform or an enclosure raised and lowered in a vertical shaft to transport people and freight. The shaft contains the operating equipment, motor, cables, and accessories. Primitive elevators were in use as early as the third century B.C.E. and were operated by human, animal, or water wheel power. In 1743, a counter-weighted, man-powered personal elevator was built for King Louis XV, connecting his apartment in Versailles with that of his mistress, Madame de Châteauroux, whose quarters were one floor above his own.
+
+19th Century Elevators
+From about the middle of the 19th century, elevators were powered, often steam-operated, and were used for transporting materials in factories, mines, and warehouses. In 1823, two architects named Burton and Homer built an "ascending room," as they called it. This crude elevator was used to lift paying tourists to a platform for a panoramic view of London. In 1835, architects Frost and Stuart built the "Teagle," a belt-driven, counter-weighted and steam-driven lift was developed in England.
+
+In 1846, Sir William Armstrong introduced the hydraulic crane and by the early 1870s, hydraulic machines began to replace the steam-powered elevator. The hydraulic elevator is supported by a heavy piston, moving in a cylinder and is operated by the water (or oil) pressure produced by pumps.
+In 1852, American inventor Elisha Otis moved to Yonkers, New York to work for the bedstead firm of Maize & Burns. It was the owner of the company, Josiah Maize, that inspired Otis to start designing elevators. Maize needed a new hoisting device to lift heavy equipment to the upper floor of his factory.
+
+In 1853, Otis demonstrated a freight elevator equipped with a safety device to prevent falling in case a supporting cable broke. This increased public confidence in such devices. In 1853, Otis established a company for manufacturing elevators and patented a steam elevator.
+
+For Josiah Maize, Otis invented something he called an "Improvement in Hoisting Apparatus Elevator Brake" and demonstrated his new invention to the public at the Crystal Palace Exposition in New York in 1854. During the demonstration, Otis hoisted the elevator car to the top of the building and then deliberately cut the elevator hoisting cables. However, instead of crashing, the elevator car was stopped because of the brakes that Otis had invented. While Otis did not actually invent the first elevator, his brakes, used in modern elevators, made skyscrapers a practical reality.
+7 busy: number of occupants using elevator = 324 number_of_trips  40 taking 4 hours
+8 busy: number of occupants using elevator = 324 number_of_trips  162 taking 16 hours
+9 not busy: number of occupants using elevator= 72 number_of_trips  12 taking 1 hours
+10 not busy: number of occupants using elevator= 72 number_of_trips  9 taking 0 hours
+11 busy: number of occupants using elevator = 324 number_of_trips  46 taking 4 hours
+12 busy: number of occupants using elevator = 324 number_of_trips  40 taking 4 hours
+13 busy: number of occupants using elevator = 324 number_of_trips  40 taking 4 hours
+14 not busy: number of occupants using elevator= 72 number_of_trips  36 taking 3 hours
+15 not busy: number of occupants using elevator= 72 number_of_trips  12 taking 1 hours
+16 not busy: number of occupants using elevator= 72 number_of_trips  14 taking 1 hours
+17 busy: number of occupants using elevator = 324 number_of_trips  162 taking 16 hours
+18 busy: number of occupants using elevator = 324 number_of_trips  324 taking 32 hours
+19 not busy: number of occupants using elevator= 72 number_of_trips  36 taking 3 hours
+7 busy: number of occupants using elevator = 324 number_of_trips 324 taking 103680 hours
+8 busy: number of occupants using elevator = 324 number_of_trips 54 taking 17280 hours
+9 busy: number of occupants using elevator = 72 number_of_trips 12 taking 3840 hours
+10 busy: number of occupants using elevator = 72 number_of_trips 18 taking 5760 hours
+11 busy: number of occupants using elevator = 324 number_of_trips 54 taking 17280 hours
+12 busy: number of occupants using elevator = 324 number_of_trips 46 taking 14811 hours
+13 busy: number of occupants using elevator = 324 number_of_trips 46 taking 14811 hours
+14 busy: number of occupants using elevator = 72 number_of_trips 9 taking 2880 hours
+15 busy: number of occupants using elevator = 72 number_of_trips 18 taking 5760 hours
+16 busy: number of occupants using elevator = 72 number_of_trips 9 taking 2880 hours
+17 busy: number of occupants using elevator = 324 number_of_trips 81 taking 25920 hours
+18 busy: number of occupants using elevator = 324 number_of_trips 40 taking 12960 hours
+19 busy: number of occupants using elevator = 72 number_of_trips 10 taking 3291 hours
+7 busy: number of occupants using elevator =                    324 number_of_trips                    64 taking 26162 hours
+8 busy: number of occupants using elevator =                    324 number_of_trips                    162 taking 65405 hours
+9 busy: number of occupants using elevator =                72 number_of_trips                10 taking 4152 hours
+10 busy: number of occupants using elevator =                72 number_of_trips                14 taking 5813 hours
+11 busy: number of occupants using elevator =                    324 number_of_trips                    46 taking 18687 hours
+12 busy: number of occupants using elevator =                    324 number_of_trips                    46 taking 18687 hours
+13 busy: number of occupants using elevator =                    324 number_of_trips                    54 taking 21801 hours
+14 busy: number of occupants using elevator =                72 number_of_trips                9 taking 3633 hours
+15 busy: number of occupants using elevator =                72 number_of_trips                18 taking 7267 hours
+16 busy: number of occupants using elevator =                72 number_of_trips                9 taking 3633 hours
+17 busy: number of occupants using elevator =                    324 number_of_trips                    40 taking 16351 hours
+18 busy: number of occupants using elevator =                    324 number_of_trips                    108 taking 43603 hours
+19 busy: number of occupants using elevator =                72 number_of_trips                9 taking 3633 hours
